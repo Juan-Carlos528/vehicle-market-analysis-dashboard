@@ -1,10 +1,9 @@
 # 🚗 Vehicle Market Analysis Dashboard
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
-![Plotly](https://img.shields.io/badge/Plotly-Visualization-green)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-Data%20Visualization-green?logo=plotly&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=checkmarx&logoColor=white)
 ---
 
 ## 🌐 Live Demo
