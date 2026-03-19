@@ -1,6 +1,6 @@
-# vehicles-dashboard
-Esta aplicación web permite realizar un análisis exploratorio de datos
-sobre anuncios de autos en Estados Unidos.
+# Vehicle Market Analysis Dashboard
+Interactive web application for exploratory data analysis of vehicle listings in the United States using Python, Streamlit, and Plotly.
+Aplicación web interactiva para el análisis exploratorio de datos de listados de vehículos en los Estados Unidos utilizando Python, Streamlit y Plotly.
 
 ## Funcionalidad
 - Carga un dataset de vehículos
