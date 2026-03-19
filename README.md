@@ -88,6 +88,7 @@ vehicle-market-analysis-dashboard
 ├── vehicles_us.csv
 ├── requirements.txt
 └── README.md
+
 ---
 
 ## ⚠️ Disclaimer
@@ -105,4 +106,5 @@ Juan Carlos Cardona
 Aspiring Data Scientist  
 
 GitHub: https://github.com/Juan-Carlos528 
+
 LinkedIn: https://linkedin.com/in/juan-carlos-cardona-alvarado
