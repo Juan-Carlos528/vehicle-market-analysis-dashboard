@@ -11,6 +11,10 @@
 Access the application here:  
 👉 https://vehicles-dashboard-g29t.onrender.com/
 
+## 📸 Dashboard Preview
+
+<img width="1911" height="902" alt="Vehicle Market Analysis Dashboard" src="https://github.com/user-attachments/assets/7bb5f579-18fe-40c2-8d96-3383bea71181"/>
+
 ---
 
 ## 📊 Project Overview / Descripción del Proyecto
